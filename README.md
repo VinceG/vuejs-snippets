@@ -3,7 +3,6 @@ VueJS Snippets
 
 <a href="https://twitter.com/@gabrielva" target="_blank">@gabrielva</a>
 
-
 ```cson
 '.source.js, .vue':
   'Vue App':
