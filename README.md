@@ -1,8 +1,7 @@
 VueJS Snippets
 =======================
 
-
-[@gabrielva](https://twitter.com/@gabrielva)
+<a href="https://twitter.com/@gabrielva" target="_blank">@gabrielva</a>
 
 
 ```cson
