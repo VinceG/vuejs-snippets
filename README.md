@@ -1,6 +1,10 @@
 VueJS Snippets
 =======================
 
+
+[@gabrielva](https://twitter.com/@gabrielva)
+
+
 ```cson
 '.source.js, .vue':
   'Vue App':
@@ -352,3 +356,6 @@ VueJS Snippets
       v-once
     """
 ```
+
+
+
